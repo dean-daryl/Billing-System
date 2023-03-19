@@ -1,0 +1,34 @@
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\Billing system.exe
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\Billing system.deps.json
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\Billing system.runtimeconfig.json
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\Billing system.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\Billing system.pdb
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\System.Data.OleDb.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\System.Drawing.Common.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\System.Security.Permissions.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deand\source\repos\Billing system\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.vbproj.AssemblyReference.cache
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing_system.Form.resources
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing_system.Form1.resources
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing_system.Resources.resources
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.vbproj.GenerateResource.cache
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.AssemblyInfoInputs.cache
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.AssemblyInfo.vb
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.vbproj.CoreCompileInputs.cache
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.vbproj.CopyComplete
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.dll
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\refint\Billing system.dll
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.pdb
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\Billing system.genruntimeconfig.cache
+C:\Users\deand\source\repos\Billing system\obj\Release\net6.0-windows\ref\Billing system.dll

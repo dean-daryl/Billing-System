@@ -1,0 +1,19 @@
+C:\Users\deand\Desktop\Dianah's Project\Billing system.exe
+C:\Users\deand\Desktop\Dianah's Project\Billing system.dll
+C:\Users\deand\Desktop\Dianah's Project\Billing system.deps.json
+C:\Users\deand\Desktop\Dianah's Project\Billing system.runtimeconfig.json
+C:\Users\deand\Desktop\Dianah's Project\Billing system.pdb
+C:\Users\deand\Desktop\Dianah's Project\Microsoft.Win32.SystemEvents.dll
+C:\Users\deand\Desktop\Dianah's Project\System.Configuration.ConfigurationManager.dll
+C:\Users\deand\Desktop\Dianah's Project\System.Data.OleDb.dll
+C:\Users\deand\Desktop\Dianah's Project\System.Diagnostics.PerformanceCounter.dll
+C:\Users\deand\Desktop\Dianah's Project\System.Drawing.Common.dll
+C:\Users\deand\Desktop\Dianah's Project\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deand\Desktop\Dianah's Project\System.Security.Permissions.dll
+C:\Users\deand\Desktop\Dianah's Project\System.Windows.Extensions.dll
+C:\Users\deand\Desktop\Dianah's Project\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\deand\Desktop\Dianah's Project\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\deand\Desktop\Dianah's Project\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\deand\Desktop\Dianah's Project\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\deand\Desktop\Dianah's Project\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deand\Desktop\Dianah's Project\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
